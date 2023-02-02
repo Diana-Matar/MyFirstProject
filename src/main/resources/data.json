@@ -1,0 +1,39 @@
+{
+  "Global": {
+    "NewConfirmed": 257886,
+    "TotalConfirmed": 17849120,
+    "NewDeaths": 5615,
+    "TotalDeaths": 685038,
+    "NewRecovered": 222627,
+    "TotalRecovered": 10552934
+  },
+  "Countries": [
+    {
+      "Country": "Afghanistan",
+      "CountryCode": "AF",
+      "Slug": "afghanistan",
+      "NewConfirmed": 35,
+      "TotalConfirmed": 36710,
+      "NewDeaths": 11,
+      "TotalDeaths": 1283,
+      "NewRecovered": 0,
+      "TotalRecovered": 25509,
+      "Date": "2020-08-02T07:46:58Z",
+      "Premium": {}
+    },
+    {
+      "Country": "Albania",
+      "CountryCode": "AL",
+      "Slug": "albania",
+      "NewConfirmed": 120,
+      "TotalConfirmed": 5396,
+      "NewDeaths": 4,
+      "TotalDeaths": 161,
+      "NewRecovered": 9,
+      "TotalRecovered": 2961,
+      "Date": "2020-08-02T07:46:58Z",
+      "Premium": {}
+    },
+    .....
+  ]
+}
